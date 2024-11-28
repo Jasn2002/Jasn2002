@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015!<br>📚 I'm currently learning Game Development in Godot<br>🎯 Goals: Creating innovative applications of AI</p>
+<p align="left">✨ Creating bugs since 2015!<br>📚 In my free time I work on my game development projects<br>🎯 Goals: Creating innovative applications of AI</p>
 
 ###
 
